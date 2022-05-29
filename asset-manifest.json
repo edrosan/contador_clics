@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contador_clics/static/css/main.deceb2de.css",
+    "main.js": "/contador_clics/static/js/main.f56f0468.js",
+    "index.html": "/contador_clics/index.html",
+    "main.deceb2de.css.map": "/contador_clics/static/css/main.deceb2de.css.map",
+    "main.f56f0468.js.map": "/contador_clics/static/js/main.f56f0468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deceb2de.css",
+    "static/js/main.f56f0468.js"
+  ]
+}
